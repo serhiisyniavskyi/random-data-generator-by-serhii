@@ -1,14 +1,20 @@
 {
   "name": "random-data-generator-by-serhii",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.3.7",
+  "author": "serhiisyniavskyi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serhiisyniavskyi/random-data-generator-by-serhii.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "push-fold": "^1.3.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "supersimpltaskschedulerbyantoniuk": "^9.1.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
